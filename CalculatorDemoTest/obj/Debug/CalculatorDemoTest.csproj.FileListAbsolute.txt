@@ -1,0 +1,13 @@
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\CalculatorDemoTest.dll
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\CalculatorDemoTest.pdb
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\CalculatorDemo.dll
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\FluentAssertions.dll
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\System.ValueTuple.dll
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\CalculatorDemo.pdb
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\FluentAssertions.pdb
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\FluentAssertions.xml
+C:\Calculator_Demo\Demo\CalculatorDemoTest\bin\Debug\System.ValueTuple.xml
+C:\Calculator_Demo\Demo\CalculatorDemoTest\obj\Debug\CalculatorDemoTest.csprojResolveAssemblyReference.cache
+C:\Calculator_Demo\Demo\CalculatorDemoTest\obj\Debug\CalculatorDemoTest.dll
+C:\Calculator_Demo\Demo\CalculatorDemoTest\obj\Debug\CalculatorDemoTest.pdb

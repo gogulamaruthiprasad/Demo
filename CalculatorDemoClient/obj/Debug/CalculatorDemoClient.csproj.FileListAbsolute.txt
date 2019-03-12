@@ -1,0 +1,8 @@
+C:\Calculator_Demo\Demo\CalculatorDemoClient\bin\Debug\CalculatorDemoClient.exe.config
+C:\Calculator_Demo\Demo\CalculatorDemoClient\bin\Debug\CalculatorDemoClient.exe
+C:\Calculator_Demo\Demo\CalculatorDemoClient\bin\Debug\CalculatorDemoClient.pdb
+C:\Calculator_Demo\Demo\CalculatorDemoClient\bin\Debug\CalculatorDemo.dll
+C:\Calculator_Demo\Demo\CalculatorDemoClient\bin\Debug\CalculatorDemo.pdb
+C:\Calculator_Demo\Demo\CalculatorDemoClient\obj\Debug\CalculatorDemoClient.csprojResolveAssemblyReference.cache
+C:\Calculator_Demo\Demo\CalculatorDemoClient\obj\Debug\CalculatorDemoClient.exe
+C:\Calculator_Demo\Demo\CalculatorDemoClient\obj\Debug\CalculatorDemoClient.pdb
