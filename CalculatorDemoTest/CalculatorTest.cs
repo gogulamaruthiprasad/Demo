@@ -11,28 +11,31 @@ namespace CalculatorDemoTest
         [TestMethod]
         public void Adding_4_And_3_Should_Return_7()
         {
+            //Arrange
             var calculator = new Calculator();
-
+            //Act
             int result = calculator.Add(4, 3);
-
+            //Assert
             Assert.AreEqual(7, result);
         }
         [TestMethod]
         public void Substract_4_And_3_Should_Return_1()
         {
+            //Arrange
             var calculator = new Calculator();
-
+            //Act
             int result = calculator.Substract(4, 3);
-
+            //Assert
             Assert.AreEqual(1, result);
         }
         [TestMethod]
         public void Multiply_4_And_3_Should_Return_12()
-        {
+        { 
+            //Arrange
             var calculator = new Calculator();
-
+            //Act
             int result = calculator.Multiply(4, 3);
-
+            //Assert
             Assert.AreEqual(12, result);
         }
         [TestMethod]
@@ -57,7 +60,6 @@ namespace CalculatorDemoTest
             //Act
             string result = calculator.getFullName(fname, mname, lname);
             //Assert
-
             result.Should().StartWith("Ma");
             result.Should().NotStartWith("Pr");
             result.Should().NotStartWith("Go");
