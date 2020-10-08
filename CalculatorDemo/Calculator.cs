@@ -38,5 +38,11 @@ namespace CalculatorDemo
             return fName;
 
         }
+
+        public string getMName(string fName)
+        {
+            return fName;
+
+        }
     }
 }
