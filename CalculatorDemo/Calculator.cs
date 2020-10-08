@@ -32,5 +32,11 @@ namespace CalculatorDemo
             return string.Concat(fName + " " + mName + " " + lName);
 
         }
+
+        public string getFullName(string fName)
+        {
+            return fName;
+
+        }
     }
 }
